@@ -1,0 +1,30 @@
+/* Base HTML CSS */
+
+* {
+    margin: 0px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.week-planner {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.week-container {
+    width: 95vw;
+}

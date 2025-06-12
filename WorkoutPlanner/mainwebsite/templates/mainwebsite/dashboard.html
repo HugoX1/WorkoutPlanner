@@ -1,0 +1,73 @@
+{% extends 'mainwebsite/base.html' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+
+<div class="week-planner">
+    <div class="week-container">
+        <h1>Hello Hugo,</h1>
+        <p style="font-size: 14px;">Today is {{ todaysDate }}</p>
+
+        <div class="d-flex justify-content-evenly">
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Monday
+                </div>
+                <div class="card-body">
+                    Chest & Triceps
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Tuesday
+                </div>
+                <div class="card-body">
+                    Back & Biceps
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Wednesday
+                </div>
+                <div class="card-body">
+                    Shoulders
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Thursday
+                </div>
+                <div class="card-body">
+                    Legs
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Friday
+                </div>
+                <div class="card-body">
+                    Rest
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Saturday
+                </div>
+                <div class="card-body">
+                    Upper
+                </div>
+            </div>
+            <div class="card" style="width: 12rem;">
+                <div class="card-header">
+                    Sunday
+                </div>
+                <div class="card-body">
+                    Lower
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
