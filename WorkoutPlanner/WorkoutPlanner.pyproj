@@ -4,7 +4,7 @@
     <Name>WorkoutPlanner</Name>
     <RootNamespace>WorkoutPlanner</RootNamespace>
     <SuppressEnvironmentCreationPrompt>True</SuppressEnvironmentCreationPrompt>
-    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>MSBuild|env1|$(MSBuildProjectFullPath)</InterpreterId>
     <SuppressConfigureTestFrameworkPrompt>true</SuppressConfigureTestFrameworkPrompt>
     <SuppressPackageInstallationPrompt>True</SuppressPackageInstallationPrompt>
   </PropertyGroup>
@@ -37,7 +37,7 @@
     <Compile Include="mainwebsite\apps.py" />
     <Compile Include="mainwebsite\migrations\__init__.py" />
     <Compile Include="mainwebsite\models.py" />
-    <Compile Include="mainwebsite\templates\mainwebsite\DataAccess.py">
+    <Compile Include="mainwebsite\templates\utilities\DataAccess.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="mainwebsite\tests.py" />
@@ -75,6 +75,15 @@
     <Folder Include="WorkoutPlanner\" />
   </ItemGroup>
   <ItemGroup>
+    <Interpreter Include="env1\">
+      <Id>env1</Id>
+      <Version>0.0</Version>
+      <Description>env1 (Python 3.13 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
     <Interpreter Include="env\">
       <Id>env</Id>
       <Version>0.0</Version>

@@ -1,4 +1,5 @@
 from django.shortcuts import render
+import mainwebsite.templates.utilities.DataAccess as data
 import datetime
 
 # Create your views here.
@@ -17,5 +18,7 @@ def signup(request):
         lastname = request.POST.get('lastname')
         email = request.POST.get('email')
         password = request.POST.get('password')
+
+
 
     return render(request, 'mainwebsite/signup.html')

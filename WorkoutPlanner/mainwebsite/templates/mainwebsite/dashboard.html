@@ -7,18 +7,21 @@
 <div class="week-planner">
     <div class="week-container">
         <h1>Hello Hugo,</h1>
-        <p style="font-size: 14px;">Today is {{ todaysDate }}</p>
+        <p class=""fs-4">Today is {{ todaysDate }}</p>
 
         <div class="d-flex justify-content-evenly">
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem;">
                 <div class="card-header">
                     Monday
                 </div>
                 <div class="card-body">
-                    Chest & Triceps
+                    <p>- List of all exercises to be completed on this day</p>
+                    <div class="d-grid gap-3">
+                        <button href="#" class="btn btn-outline-light a">Start Workout</button>
+                    </div>      
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Tuesday
                 </div>
@@ -26,7 +29,7 @@
                     Back & Biceps
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Wednesday
                 </div>
@@ -34,7 +37,7 @@
                     Shoulders
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Thursday
                 </div>
@@ -42,7 +45,7 @@
                     Legs
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Friday
                 </div>
@@ -50,7 +53,7 @@
                     Rest
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Saturday
                 </div>
@@ -58,7 +61,7 @@
                     Upper
                 </div>
             </div>
-            <div class="card" style="width: 12rem;">
+            <div class="card" style="width: 15rem; ">
                 <div class="card-header">
                     Sunday
                 </div>
@@ -67,6 +70,18 @@
                 </div>
             </div>
         </div>
+
+        <div class="position-relative m-4" style="width: 90%">
+            <div>
+                <div class="progress" style="height: 5px;">
+                    <div class="progress-bar bg-light" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+                <button type="button" class="position-absolute top-0 start-0 translate-middle btn btn-sm btn-light rounded-pill" style="width: 6rem; height:2rem;">Start</button>
+                <button type="button" class="position-absolute top-0 start-100 translate-middle btn btn-sm btn-secondary rounded-pill" style="width: 6rem; height:2rem;">Finish</button>
+            </div>
+        </div>
+
+        
     </div>
 </div>
 
