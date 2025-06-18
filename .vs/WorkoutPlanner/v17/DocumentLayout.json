@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\offline.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\static\\offline.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\static\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\WorkoutPlanner\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\WorkoutPlanner\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,32 +47,12 @@
       "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\utilities\\DataAccess.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\WorkoutPlanner\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\WorkoutPlanner\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\WorkoutPlanner\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\WorkoutPlanner\\urls.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\static\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B339FACB-D109-40C2-ACFD-2D8CD943576D}|WorkoutPlanner\\WorkoutPlanner.pyproj|solutionrelative:WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +62,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
+              "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
+              "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
+              "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-21T00:35:46.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "offline.html",
+              "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\offline.html",
+              "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\static\\offline.html",
+              "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\offline.html",
+              "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\static\\offline.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T00:30:03.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "serviceworker.js",
+              "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js",
+              "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js",
+              "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js",
+              "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\static\\js\\serviceworker.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T00:28:44.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\manifest.json",
+              "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\static\\manifest.json",
+              "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\manifest.json",
+              "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\static\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T00:20:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DataAccess.py",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\utilities\\DataAccess.py",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\utilities\\DataAccess.py",
@@ -67,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "urls.py",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\urls.py",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\urls.py",
@@ -80,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "settings.py",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\WorkoutPlanner\\settings.py",
               "RelativeDocumentMoniker": "WorkoutPlanner\\WorkoutPlanner\\settings.py",
@@ -93,57 +158,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "dashboard.html",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html",
               "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html",
               "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\dashboard.html",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAbAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-28T23:48:01.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "signup.html",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\signup.html",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\signup.html",
               "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\signup.html",
               "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\signup.html",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-28T04:41:05.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
-              "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
-              "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
-              "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-21T00:35:46.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "base.html",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html",
               "ToolTip": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html",
               "RelativeToolTip": "WorkoutPlanner\\mainwebsite\\templates\\mainwebsite\\base.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwFgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-21T00:42:21.114Z"
+              "WhenOpened": "2025-05-21T00:42:21.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\static\\css\\styles.css",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\static\\css\\styles.css",
@@ -155,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "urls.py",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\WorkoutPlanner\\urls.py",
               "RelativeDocumentMoniker": "WorkoutPlanner\\WorkoutPlanner\\urls.py",
@@ -167,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "views.py",
               "DocumentMoniker": "C:\\Users\\hugo.watts1\\Documents\\GitHub\\WorkoutPlanner\\WorkoutPlanner\\mainwebsite\\views.py",
               "RelativeDocumentMoniker": "WorkoutPlanner\\mainwebsite\\views.py",

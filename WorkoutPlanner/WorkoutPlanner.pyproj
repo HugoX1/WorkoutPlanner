@@ -54,7 +54,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="mainwebsite\static\css\styles.css" />
+    <Content Include="mainwebsite\static\images\alien.png" />
+    <Content Include="mainwebsite\static\images\angry.png" />
     <Content Include="mainwebsite\static\images\logo.png" />
+    <Content Include="mainwebsite\static\js\serviceworker.js" />
+    <Content Include="mainwebsite\static\manifest.json" />
+    <Content Include="mainwebsite\static\offline.html" />
     <Content Include="mainwebsite\templates\mainwebsite\base.html" />
     <Content Include="mainwebsite\templates\mainwebsite\dashboard.html" />
     <Content Include="mainwebsite\templates\mainwebsite\index.html" />
