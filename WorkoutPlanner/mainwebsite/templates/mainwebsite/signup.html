@@ -9,21 +9,17 @@
 
 <body>
 
-    <div class="signup-container" method="POST" action="{% url 'signup' %}">
-        {% csrf_token %}
-
+    <div class="signup-container">
         <div class="shadow-lg" style="padding: 40px; width: 25%;">
             <img src="{% static 'images/logo.png' %}" alt="Logo" width="40" height="40" class="img-fluid mx-auto d-block">
             <h3 class="fw-bold" style="padding-top: 20px;">Sign Up</h3>
             <p>Start your journey with WattsFitness</p>
-            <form class="row g-3">
-                <div class="form-floating col-md-6">
+            <form class="row g-3" method="POST" action="{% url 'signup' %}">
+                {% csrf_token %}
+
+                <div class="form-floating col-12">
                     <input type="text" class="form-control" id="name" name="name" placeholder="John">
                     <label for="name">First Name</label>
-                </div>
-                <div class="form-floating col-md-6">
-                    <input type="text" class="form-control" id="lastname" name="lastname" placeholder="Doe">
-                    <label for="lastname">Last Name</label>
                 </div>
                 <div class="form-floating col-12">
                     <input type="email" class="form-control" id="email" name="email" placeholder="name@example.com">
